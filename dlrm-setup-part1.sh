@@ -42,10 +42,10 @@ vtune-self-checker.sh
 echo "DLRM-SETUP: FINISHED RUNNING VTUNE"
 echo ""
 echo ""
-echo "########################################################"
-echo "IMPORTANT: YOU MIGHT WANT TO CHECK THE OUTPUT FILE LISTED "
+echo "#########################################################"
+echo "IMPORTANT: YOU MIGHT WANT TO CHECK THE OUTPUT FILE LISTED"
 echo "ABOVE TO ENSURE THAT ALL VTUNE TESTS PASS"
-echo "########################################################"
+echo "#########################################################"
 sleep 5
 
 # Install conda. This follows the instructions at 
