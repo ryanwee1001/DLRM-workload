@@ -21,12 +21,24 @@ Tune the number of iterations by modifying the `NUM_ITERATIONS` variable in [dlr
 
 To run the DLRM test, run:
 
-```
+```bash
 ./dlrm-run-tests.sh
+```
+
+To reproduce the tests in Figure 13, run:
+
+```bash
+./fig13.sh
+```
+
+To reproduce the tests in Figure 14, run:
+
+```bash
+./fig14.sh
 ```
 
 # Sample results
 
 Sample results can be found in the [results](./results/) directory.
 
-These results were obtained by running the test script on an x86_64 machine with 32 cores running `Ubuntu 22.04`.
+These results were obtained by running the test scripts on an x86_64 machine with 32 cores running `Ubuntu 22.04`.
