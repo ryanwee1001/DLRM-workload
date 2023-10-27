@@ -1,0 +1,23 @@
+	Command being timed: "numactl -C 0 -m 0 /users/rw2800/DLRM-workload/dlrm/miniconda3/envs/dlrm_cpu/bin/python -u /users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/models/models/recommendation/pytorch/dlrm/product/dlrm_s_pytorch.py --data-generation=prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_low/table_1M.txt,1000000 --round-targets=True --learning-rate=1.0 --arch-mlp-bot=1024-512-128-128 --arch-mlp-top=384-192-1 --arch-sparse-feature-size=128 --max-ind-range=40000000 --numpy-rand-seed=727 --ipex-interaction --inference-only --num-batches=10000 --data-size 100000000 --num-indices-per-lookup=150 --num-indices-per-lookup-fixed=True --arch-embedding-size=1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000-1000000 --print-freq=10 --print-time --mini-batch-size=64 --share-weight-instance=1"
+	User time (seconds): 2751.78
+	System time (seconds): 28.78
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 46:21.88
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 70278928
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 1
+	Minor (reclaiming a frame) page faults: 17634376
+	Voluntary context switches: 117
+	Involuntary context switches: 22470
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

@@ -1,0 +1,1135 @@
+Using CPU...
+start to create emb, minimally need ~57.220458984375 G memory 
+may actually use more memory depends on memory allocator like tcmalloc/jemalloc
+current mem usage: 0.22908782958984375 G
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+Create Embedding: 1000000
+create emb done, current mem usage: 57.45139694213867 G
+time/loss/accuracy (if enabled):
+Initialize for not inference only done, current mem usage: 57.45139694213867 G
+Testing for inference only
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+dataset prod,/users/rw2800/DLRM-workload/dlrm/reproduce_isca23_cpu_DLRM_inference/datasets/reuse_medium/table_1M.txt,1000000
+Average latency per example: 142.672ms
+Total number of iterations: 10000
+Total number of iterations per second (across all threads): 7.01
+Total time: 1426.722s
+Throughput: 448.581 fps
