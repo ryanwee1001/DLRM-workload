@@ -43,9 +43,9 @@ To consolidate the results from the Figure 13 / Figure 14 tests into a single fi
 
 # Tuning the test parameters
 
-For `./fig13.sh` and `./fig14.sh`:
+For `fig13.sh` and `fig14.sh`:
 - Modify the `NUM_BATCH` variable to tune the runtime
-- Modify the `BS` variable to tune the max RSS
+- Modify the `BS` (batch size) variable to tune the max RSS
 
 # Sample results
 

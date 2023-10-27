@@ -78,9 +78,9 @@ def main():
 
     plt.xlim(1, 64)
     plt.ylim(59, 71)
-    plt.xlabel("Number of batches")
+    plt.xlabel("Batch size")
     plt.ylabel("Max RSS / GB")
-    plt.title(label="Max RSS over batches")
+    plt.title(label="Max RSS over batch size")
     plt.legend()
     plt.show()
 
