@@ -14,7 +14,7 @@ TESTS=(
     "fig14_RM1_high"
 )
 
-RESULTS_DIR="results/5000-iterations-32-batches"  # Modify this as needed
+RESULTS_DIR="results/5000-iterations-32-batchsize"  # Modify this as needed
 RESULTS_FILE="figures-$(date +%m%d)-$(date +%H%M%S).formatted"
 
 mkdir -p $RESULTS_DIR

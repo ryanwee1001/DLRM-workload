@@ -47,7 +47,7 @@ sed -i '441s/, auto/) # auto/1' \
 
 NUM_BATCH=5000  # Change this to modify the runtime
 BS=64           # Change this to modify the max RSS
-RESULTS_DIR=results/$NUM_BATCH-iterations-$BS-batches
+RESULTS_DIR=results/$NUM_BATCH-iterations-$BS-batchsize
 RESULTS_NAME=$(date +%m%d)-$(date +%H%M%S)
 INSTANCES=1
 EXTRA_FLAGS=
