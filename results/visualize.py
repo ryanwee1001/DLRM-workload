@@ -27,8 +27,14 @@ fig14_RM1_med_rss = [6.269, 6.268, 6.273]
 fig14_RM1_high_rss = [6.374, 6.374, 6.377]
 
 
+batches = [1, 32, 64]
+fig13_RM2_2_low_rss = [60.553, 65.592, 70.279]
+fig13_RM2_2_med_rss = [60.552, 65.596, 70.281]
+fig13_RM2_2_high_rss = [60.683, 65.696, 70.380]
+
+
 def main():
-    # RUNTIME
+    # RUNTIME GRAPH
 
     # plt.plot(iters, fig13_RM2_1_med_run, 'o', color="black")
     # coef = np.polyfit(iters, fig13_RM2_1_med_run, 1)
@@ -47,34 +53,34 @@ def main():
 
     # plt.xlim(5000, 10000)
     # plt.ylim(200, 1000)
-    # plt.xlabel("Numebr of iterations")
+    # plt.xlabel("Number of iterations")
     # plt.ylabel("Runtime / sec")
     # plt.title(label="Runtime over iterations")
     # plt.legend()
     # plt.show()
 
-    # RSS
+    # RSS GRAPH
 
-    plt.plot(iters, fig13_RM2_1_med_rss, 'o', color="black")
-    coef = np.polyfit(iters, fig13_RM2_1_med_rss, 1)
+    plt.plot(batches, fig13_RM2_2_low_rss, 'o', color="black")
+    coef = np.polyfit(batches, fig13_RM2_2_low_rss, 1)
     fn = np.poly1d(coef)
-    plt.plot(iters, fn(iters), color="black", label=f"fig13_RM2_1_med")
+    plt.plot(batches, fn(batches), color="black", label=f"fig13_RM2_2_low")
 
-    plt.plot(iters, fig13_RM2_2_high_rss, 'o', color="blue")
-    coef = np.polyfit(iters, fig13_RM2_2_high_rss, 1)
+    plt.plot(batches, fig13_RM2_2_med_rss, 'o', color="blue")
+    coef = np.polyfit(batches, fig13_RM2_2_med_rss, 1)
     fn = np.poly1d(coef)
-    plt.plot(iters, fn(iters), color="blue", label=f"fig13_RM2_2_high")
+    plt.plot(batches, fn(batches), color="blue", label=f"fig13_RM2_2_med")
 
-    plt.plot(iters, fig14_RM1_med_rss, 'o', color="green")
-    coef = np.polyfit(iters, fig14_RM1_med_rss, 1)
+    plt.plot(batches, fig13_RM2_2_high_rss, 'o', color="green")
+    coef = np.polyfit(batches, fig13_RM2_2_high_rss, 1)
     fn = np.poly1d(coef)
-    plt.plot(iters, fn(iters), color="green", label=f"fig14_RM1_med")
+    plt.plot(batches, fn(batches), color="green", label=f"fig13_RM2_2_high")
 
-    plt.xlim(5000, 10000)
-    plt.ylim(6, 71)
-    plt.xlabel("Numebr of iterations")
+    plt.xlim(1, 64)
+    plt.ylim(59, 71)
+    plt.xlabel("Number of batches")
     plt.ylabel("Max RSS / GB")
-    plt.title(label="Max RSS over iterations")
+    plt.title(label="Max RSS over batches")
     plt.legend()
     plt.show()
 
