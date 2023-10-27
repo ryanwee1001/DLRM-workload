@@ -17,8 +17,6 @@ To set up the test environment, run:
 
 # Usage
 
-Tune the number of iterations by modifying the `NUM_ITERATIONS` variable in [dlrm-run-tests.sh](./dlrm-run-tests.sh). See the comments in the file for more details.
-
 To run the DLRM test, run:
 
 ```bash
@@ -35,6 +33,12 @@ To reproduce the tests in Figure 14, run:
 
 ```bash
 ./fig14.sh
+```
+
+To consolidate the results from the Figure 13 / Figure 14 tests into a single file, run:
+
+```bash
+./fig-format.sh
 ```
 
 # Sample results

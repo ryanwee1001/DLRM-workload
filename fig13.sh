@@ -45,9 +45,9 @@ PyGetHT='import sys; c=int(sys.argv[1]); print(",".join(str(2*i + off) for off i
 sed -i '441s/, auto/) # auto/1' \
         $MODELS_PATH/models/recommendation/pytorch/dlrm/product/dlrm_s_pytorch.py
 
-NUM_BATCH=10000 # Change this to modify runtime and max RSS 
+NUM_BATCH=5000 # Change this to modify runtime and max RSS
 BS=64
-RESULTS_DIR=results
+RESULTS_DIR=results/$NUM_BATCH-iterations
 RESULTS_NAME=$(date +%m%d)-$(date +%H%M%S)
 INSTANCES=1
 EXTRA_FLAGS=
