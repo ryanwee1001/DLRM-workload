@@ -46,3 +46,9 @@ To consolidate the results from the Figure 13 / Figure 14 tests into a single fi
 Sample results can be found in the [results](./results/) directory.
 
 These results were obtained by running the test scripts on an x86_64 machine with 32 cores running `Ubuntu 22.04`.
+
+To visualize the runtime and max RSS for the Figure 13 / Figure 14 tests, run:
+
+```bash
+python3 results/visualize.py
+```

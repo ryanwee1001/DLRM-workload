@@ -1,0 +1,72 @@
+fig13_RM2_1_low: 
+	Maximum resident set size (kbytes): 34304496
+Average latency per example: 90.854ms
+Total number of iterations: 7500
+Total number of iterations per second (across all threads): 11.01
+Total time: 681.402s
+Throughput: 704.430 fps
+
+fig13_RM2_1_med: 
+	Maximum resident set size (kbytes): 34300844
+Average latency per example: 56.603ms
+Total number of iterations: 7500
+Total number of iterations per second (across all threads): 17.67
+Total time: 424.519s
+Throughput: 1130.691 fps
+
+fig13_RM2_1_high: 
+	Maximum resident set size (kbytes): 34403092
+Average latency per example: 32.243ms
+Total number of iterations: 7500
+Total number of iterations per second (across all threads): 31.01
+Total time: 241.825s
+Throughput: 1984.905 fps
+
+fig13_RM2_2_low: 
+	Maximum resident set size (kbytes): 70280644
+Average latency per example: 225.087ms
+Total number of iterations: 7500
+Total number of iterations per second (across all threads): 4.44
+Total time: 1688.149s
+Throughput: 284.335 fps
+
+fig13_RM2_2_med: 
+	Maximum resident set size (kbytes): 70278416
+Average latency per example: 142.189ms
+Total number of iterations: 7500
+Total number of iterations per second (across all threads): 7.03
+Total time: 1066.414s
+Throughput: 450.106 fps
+
+fig13_RM2_2_high: 
+	Maximum resident set size (kbytes): 70384756
+Average latency per example: 83.607ms
+Total number of iterations: 7500
+Total number of iterations per second (across all threads): 11.96
+Total time: 627.051s
+Throughput: 765.488 fps
+
+fig14_RM1_low: 
+	Maximum resident set size (kbytes): 6266280
+Average latency per example: 53.827ms
+Total number of iterations: 7500
+Total number of iterations per second (across all threads): 18.58
+Total time: 403.705s
+Throughput: 1188.987 fps
+
+fig14_RM1_med: 
+	Maximum resident set size (kbytes): 6268224
+Average latency per example: 43.590ms
+Total number of iterations: 7500
+Total number of iterations per second (across all threads): 22.94
+Total time: 326.928s
+Throughput: 1468.213 fps
+
+fig14_RM1_high: 
+	Maximum resident set size (kbytes): 6374200
+Average latency per example: 35.237ms
+Total number of iterations: 7500
+Total number of iterations per second (across all threads): 28.38
+Total time: 264.276s
+Throughput: 1816.282 fps
+
